@@ -9,8 +9,8 @@ $request->setConfig(array(
 $request->addPostParameter(array(
     'token' => 'your-api-key',
     'sender' => 'NBC',
-    'to' => '08074303908, 08151721148',
-    'message' => 'Hello!!! Just testing',
+    'to' => 'phone-number(s)',
+    'message' => 'enter-message',
     'type' => '0',
     'routing' => '4',
     'ref_id' => '',
